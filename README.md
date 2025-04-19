@@ -46,3 +46,21 @@
 | :- | :- | :- |
 |**The worst in this aspect, as it stops as soon as no better move is available, often leading to suboptimal solutions.**|**The best at escaping local optima because of its probabilistic acceptance of worse moves.**|**Also has a better chance of avoiding local optima by considering multiple board states at once, increasing the chances of finding a better solution.**|
 
+**Hill Climbing**
+
+![image](https://github.com/user-attachments/assets/13a42926-f6f9-406f-9919-9e0da1be4112)
+
+![image](https://github.com/user-attachments/assets/ad3edd74-5e1f-47ed-ab84-32ddff9a1ef3)
+
+**Simulated Annealing**
+
+![image](https://github.com/user-attachments/assets/d46b82a0-b9b9-4436-9e12-01823336896a)
+
+![image](https://github.com/user-attachments/assets/1e834328-4d63-43cf-836e-7a38223f1898)
+
+**Local Beam Search**
+
+![image](https://github.com/user-attachments/assets/7fb24719-5ca6-4578-83ea-a35e053ca6fd)
+
+![image](https://github.com/user-attachments/assets/5c55c6b0-94a1-41bd-9148-4e402d06a2e7)
+

@@ -1,7 +1,6 @@
 # 8-Queen-Problem
 
 **[8 Queen Analysis]:**
-**
 
 
 
